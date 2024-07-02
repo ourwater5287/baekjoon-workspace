@@ -24,7 +24,7 @@ void dfs(int cnt) {
 }
 
 int main(){
-    ios::sync_with_stdio(false);
+    ios::sync_with_stdio(false); //출력시간 줄일 수 있는 개사기 치트
     cin.tie(0);
 
     cin >> N >> M;
